@@ -18,6 +18,7 @@
 ***************************************************************************/
 #include "plotwindow.h"
 #include "ui_plotwindow.h"
+#include <QButtonGroup>
 
 PlotWindow::PlotWindow(QWidget *parent) :
     QMainWindow(parent),
